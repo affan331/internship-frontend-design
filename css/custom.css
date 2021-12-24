@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a
+{
+    text-decoration: none;
+}
+.number-headings
+{
+    color: #747474;
+    border: 1px solid;
+    border-radius: 5px; 
+    text-align: center;
+    line-height: 17px;
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.active-step{
+    color: white;
+    background-color: #4B54E5;
+}
+
+.bg-transparent{
+    background-color: transparent;
+
+}
+
+.card-header{
+    background-color: white;
+}
+
+.sidebar-heading{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.side-list{
+    list-style: disc;
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.side-list li{
+    margin-top: 10px;
+ 
+}
+
+.side-list li a{
+    text-decoration: none;
+    color: none;
+}
+
+.side-list .nav-active{
+    color: #9292DC;
+    font-weight: bold;
+}
+
+.side-navbar{
+    height: 1200px;
+    background-color: #f6f6f6;
+}
+
+.no-border{
+    border: none;
+}
+
+.heading{
+
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.subtitle{
+    margin-left: 50px;
+    color: #747474;
+}
+.mt-5
+{
+    margin-top: 5px;
+}
+.float-right
+{
+    float:right;
+}
+.fnt-20
+{
+
+    font-size: 20px;
+}
+
+.br-5{
+    border-radius: 5px;
+}
